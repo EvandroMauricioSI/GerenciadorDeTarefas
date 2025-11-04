@@ -20,7 +20,7 @@ function TaskPage() {
         </h1>
       </div>
 
-      <div className="w-[500px] space-y-4" >
+      <div className="w-[500px] mx-auto space-y-4">
         <div className="bg-slate-200 p-4 rounded-md">
           <h2 className="text-xl text-slate-100 font-bold text-slate-600 ">
             {title}
