@@ -1,0 +1,38 @@
+npm rum dev
+-------------------------------------------------------------------
+
+tailwind
+
+-------------------------------------------------------------------
+dentro do arquivo eslint.config.js foi adicionado a linha abaixo: 
+26      rules: ...
+...     ...
+36      "react/prop-types":"off", // tira as informações de erros
+-------------------------------------------------------------------
+
+Usar ou não o states?
+Ao alterar a variável precisa de alterar a inferface?
+- Sim: usa states
+- Não: não usa ste
+
+
+{
+      id: 1,
+      title: "Estudar Programação",
+      description:
+        "Estudar programação para se tornar um programador full stack",
+      isCompleted: false,
+    },
+    {
+      id: 2,
+      title: "Estudar Inglês",
+      description: "Estudar inglês para se tornar fluente",
+      isCompleted: false,
+    },
+    {
+      id: 3,
+      title: "Estudar Matemática",
+      description:
+        "Estudar matemática para se tornar um programador full stack",
+      isCompleted: false,
+    },
