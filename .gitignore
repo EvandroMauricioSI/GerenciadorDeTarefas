@@ -1,1 +1,21 @@
+# Logs
+logs
+*. Log npm-debug. log*
+yarn-debug.log*
+yarn-error.log* pnpm-debug.log*
+Lerna-debug. 10g*
 node_modules
+dist
+dist-ssr
+* Local
+
+# Editor directories and files
+• vscode/*
+!.vscode/extensions.json
+•idea
+. DS_Store
+*. SUO
+*ntvs*
+*.njsproj
+*. sln
+*. sw?
